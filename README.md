@@ -1,24 +1,8 @@
-# e00_02_rubrica
+# Main content
+## Phonebook
+View to hold elements of a phone book.
 
-## Project setup
-```
-npm install
-```
+This project uses some basic vue ideas, most notably 
+```components```, their use in ```view files```, the ```axios``` library and ```vue-router```.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
